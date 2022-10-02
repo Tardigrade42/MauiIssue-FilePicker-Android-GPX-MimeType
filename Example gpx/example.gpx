@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1">
+	<trk>
+		<name>Test Track</name>
+		<trkseg>
+			<trkpt lat="56.001100" lon="12.055223">
+				<time>2021-10-02T04:30:22.105Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
